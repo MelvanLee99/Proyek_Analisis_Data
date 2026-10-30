@@ -21,8 +21,7 @@ Pastikan struktur proyek kurang lebih seperti berikut:
 
 ``` text
 Proyek_Analisis_Data/
-├── PRSA_Data_20130301-20170228/
-│   └── File CSV dari stasiun pemantauan
+├── PRSA_Data_Changping_20130301-20170228.csv/
 ├── Proyek_Analisis_Data.ipynb
 ├── air_quality_changping_clean.csv
 ├── dashboard.py
