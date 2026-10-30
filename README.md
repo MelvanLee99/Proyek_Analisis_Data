@@ -24,7 +24,7 @@ Proyek_Analisis_Data/
 ├───dashboard
 | ├───air_quality_changping_clean.csv
 | └───dashboard.py
-├── PRSA_Data_Changping_20130301-20170228.csv/
+├── PRSA_Data_Changping_20130301-20170228.csv
 ├── Proyek_Analisis_Data.ipynb
 ├── url.txt
 ├── requirements.txt
